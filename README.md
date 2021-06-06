@@ -4,7 +4,8 @@
 This analysis uses data for August 2019 for NYC bike sharing to support business case for a bike-sharing program in Des Moines.
 
 ## Results 
-[Link to Tableau Story](https://public.tableau.com/app/profile/madiha8743/viz/Bikesharing_challenge_16229839442130/Story1 "Link to Tableau Dashboard")
+[Link to Tableau Story](https://public.tableau.com/app/profile/madiha8743/viz/Bikesharing_challenge_16229839442130/Story1
+"Link to Tableau Dashboard")
 
 The following images are from the NYC bike sharing data analysis using Tableau. The data used was for over 2 million rides. Gender breakdown show that males are a higher percentage of overall users.  
 
